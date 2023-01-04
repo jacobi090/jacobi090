@@ -1,5 +1,6 @@
 <h1>HEY! Im Jacobi090.</h1>
 <p>Im a Developer Web</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jacobi090&theme=sea)](https://git.io/streak-stats)
 
 <!---
 jacobi090/jacobi090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
