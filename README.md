@@ -1,5 +1,4 @@
-
-![alt text](header.png)
+<img src="header.png" alt="Alt text" title="Optional title">
 <p>
     🔭 I'm currently working on JafWeb<br>
     🌱 I’m currently learning more about HTML,CSS,JavaScript<br>
