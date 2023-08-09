@@ -1,5 +1,5 @@
-<img href="header.png">
 
+![alt text](header.png)
 <p>
     🔭 I'm currently working on JafWeb<br>
     🌱 I’m currently learning more about HTML,CSS,JavaScript<br>
