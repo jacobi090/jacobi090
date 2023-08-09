@@ -1,5 +1,5 @@
 <h1>HEY! Im Jacobi090.</h1>
-
+<p>
     🔭 I'm currently working on JafWeb
     🌱 I’m currently learning more about HTML,CSS,JavaScript
     💬 Ask me about web frontend development
@@ -7,7 +7,7 @@
     ✏ I've worked on some website
     😄 Pronouns: He/Him
     ⚡ Fun fact: start batch soon
-
+</p>
 
 # My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jacobi090&theme=sea)](https://git.io/streak-stats)
