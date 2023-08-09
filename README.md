@@ -1,12 +1,13 @@
 <img href="header.png">
+
 <p>
-    🔭 I'm currently working on JafWeb
-    🌱 I’m currently learning more about HTML,CSS,JavaScript
-    💬 Ask me about web frontend development
-    📫 How to reach me: ThePLug09 (theplug09._.) on Discord or jacobi090@proton.me
-    ✏ I've worked on some website
-    😄 Pronouns: He/Him
-    ⚡ Fun fact: start batch soon
+    🔭 I'm currently working on JafWeb<br>
+    🌱 I’m currently learning more about HTML,CSS,JavaScript<br>
+    💬 Ask me about web frontend development<br>
+    📫 How to reach me: ThePLug09 (theplug09._.) on Discord or jacobi090@proton.me<br>
+    ✏ I've worked on some website<br>
+    😄 Pronouns: He/Him<br>
+    ⚡ Fun fact: start batch soon<br>
 </p>
 
 # My stats
