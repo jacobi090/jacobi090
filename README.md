@@ -17,7 +17,7 @@
     📫 How to reach me: ThePLug09 (theplug09._.) on Discord or jacobi090@proton.me<br>
     ✏ I've worked on some website<br>
     😄 Pronouns: He/Him<br>
-    ⚡ Fun fact: start batch soon<br>
+    ⚡ Fun fact: start programming js<br>
 </p>
 
 <h3 align="left">Connect with me:</h3>
