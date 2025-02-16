@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobi090&label=Profile%20views&color=0e75b6&style=flat" alt="jacobi090" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacobi090" alt="jacobi090" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jacobi09090" target="blank"><img src="https://img.shields.io/twitter/follow/jacobi09090?logo=twitter&style=for-the-badge" alt="jacobi09090" /></a> </p>
 
