@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cadc6c2a-a6a8-4982-a92b-b7e8894891e6" /><img src="header.png" alt="Header banner" title="Welcome to my profile!" />
+<img src="header.png" alt="Header banner" title="Welcome to my profile!" />
 
 <h1 align="center">Hey 👋, I'm <span style="color:#58a6ff;">ThePlug09</span></h1>
 <h3 align="center">Frontend Developer • from 🇨🇦 Canada</h3>
