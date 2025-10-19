@@ -67,4 +67,4 @@
 
 ---
 
-<p align="center">✨ “Keep building. Keep learning. Keep creating.” ✨</p>
+<p align="center">Owner of The Forjed Project</p>
