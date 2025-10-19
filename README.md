@@ -21,8 +21,18 @@
 
 ### Tech Stack
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/749c0fd6-a814-47e9-a3cb-8c020eee0d61" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/749c0fd6-a814-47e9-a3cb-8c020eee0d61" width="48" height="48"/>
+  <img src="https://github.com/user-attachments/assets/9d9cd50e-42ec-45d0-bed9-79b12374cc32" width="48" height="48"/>
+  <img src="https://github.com/user-attachments/assets/25387e24-9f25-4b5d-8197-f5a862d4e81b" width="48" height="48"/>
+  <img src="https://github.com/user-attachments/assets/3b67f879-9587-4b8c-bd93-e727e9dea9b5" width="48" height="48"/>
+  <img src="https://github.com/user-attachments/assets/579ce3b9-1b8d-4235-8c7c-b5cae2266143" width="48" height="48"/>
+  <img src="https://github.com/user-attachments/assets/8f6e6c58-fe96-47a3-8f90-352f285b08d2" width="48" height="48"/>
+  <img src="https://github.com/user-attachments/assets/98855cb5-da95-469d-a942-4531e0424eb4" width="48" height="48"/>
+  <img src="https://github.com/user-attachments/assets/10e841ff-a35a-407e-bd99-541c994f0e4a" width="48" height="48"/>
+  <img src="https://github.com/user-attachments/assets/d85d85ef-5889-476c-a576-00bd9c303c53" width="48" height="48"/>
+  <img src="https://github.com/user-attachments/assets/017e75e2-b758-4594-9e55-673938ce587b" width="48" height="48"/>
+</p>
 
 ---
 
