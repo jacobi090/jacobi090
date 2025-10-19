@@ -1,4 +1,4 @@
-<img src="header.png" alt="Header banner" title="Welcome to my profile!" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cadc6c2a-a6a8-4982-a92b-b7e8894891e6" /><img src="header.png" alt="Header banner" title="Welcome to my profile!" />
 
 <h1 align="center">Hey 👋, I'm <span style="color:#58a6ff;">ThePlug09</span></h1>
 <h3 align="center">Frontend Developer • from 🇨🇦 Canada</h3>
@@ -21,26 +21,8 @@
 
 ### Tech Stack
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/749c0fd6-a814-47e9-a3cb-8c020eee0d61" />
+
 
 ---
 
